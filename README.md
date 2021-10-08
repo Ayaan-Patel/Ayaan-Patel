@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayaan-Patel
 - 👀 I’m interested in computer science and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, but my free time is spent playing with my friends
 - 💞️ I’m looking to collaborate on differnet ICU3U assignments and improving the code and work holistically
 - 📫 How to reach me? Use 901116@pdsb.net
 
